@@ -7,3 +7,4 @@ Identify hubs of night time activity in new york using Urban Spatial Analysis.
 * Getis and Ord's G
 * Local Getis and Ord's G
 
+## Please refer the pdf file for a complete report
